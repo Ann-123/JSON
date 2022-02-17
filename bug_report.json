@@ -5,7 +5,7 @@
     { 
       "step_1": "place files outside SOURS_DIR",
       "step_2": "place files in SOURS_DIR",
-      "step_3": "launch the application
+      "step_3": "launch the application"
     }
   "expected result": "only those files that are in SOURCE_DIR are processed",
   "actual result": "processed files that are not only in SOURCE_DIR",
